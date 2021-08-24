@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.3148148148148148" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/gradient_bottom.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/gradient_dark.xml" value="0.3148148148148148" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/gradient_top.xml" value="0.31574074074074077" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/ic_share.xml" value="0.3" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/primary_ripple.xml" value="0.3175925925925926" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/drawable/rounded_black_80.xml" value="0.3" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/fr_for_you.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/fr_for_you_content.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/fr_for_you_header.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/fr_home.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/fr_item_for_you.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/item_category.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/item_for_you.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/item_for_you_inner.xml" value="0.42857142857142855" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/item_grab_1.xml" value="0.36875" />
+        <entry key="..\:/Android/AndroidStudioProjects/stride/Grabbd/app/src/main/res/layout/item_grab_2.xml" value="0.41849148418491483" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/activity_albumlist.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/activity_main.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/adapter_albu.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/fr_for_you.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/fr_home.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/item_album.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/layout/toolbar_custom.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/1992s/Downloads/DemoTest/DemoTest/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/activity_albumlist.xml" value="0.2" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/adapter_albu.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/fr_for_you.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/include_progress.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/item_album.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/item_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/item_for_you.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/item_grab_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/item_grab_2.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/layout/toolbar_custom.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/1992s/Downloads/Grabbd-master/Grabbd-master/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+    <string name="server_error">Server error</string>
+    <string name="no_internet_connection_error">No internet connection</string>
+    <string name="for_you">Album</string>
+    <string name="following"></string>
+</resources>

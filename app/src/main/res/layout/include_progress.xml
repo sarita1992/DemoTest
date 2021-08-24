@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:id="@+id/progressView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black70"
+        android:elevation="10dp"
+        android:visibility="gone">
+
+        <com.agrawalsuneet.dotsloader.loaders.TrailingCircularDotsLoader
+            android:id="@+id/progressMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="20dp"
+            app:trailingcircular_animDelay="200"
+            app:trailingcircular_animDuration="1800"
+            app:trailingcircular_bigCircleRadius="40dp"
+            app:trailingcircular_dotsColor="@color/white"
+            app:trailingcircular_dotsRadius="5dp"
+            app:trailingcircular_noOfTrailingDots="5" />
+
+    </FrameLayout>
+</layout>
+
